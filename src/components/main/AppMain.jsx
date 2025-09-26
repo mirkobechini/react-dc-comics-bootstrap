@@ -1,3 +1,6 @@
+import BandIcon from "./BandIcon/BandIcon"
+
+
 export default function AppMain() {
     return (
         <>
@@ -24,6 +27,7 @@ export default function AppMain() {
                     </div>
                 </div>
             </div>
+            <BandIcon/>
 
         </>
     )
