@@ -1,0 +1,17 @@
+/*#region Palette*/
+
+:root {
+  --rdc-primary: #0282f9;
+  --rdc-secondary: #303030;
+  --rdc-bg: #1c1c1c;
+}
+
+
+/*#endregion Palette*/
+
+
+/*#region Header*/
+.nav-underline .nav-link.active{
+    color: var(--rdc-primary);
+}
+/*#endregion Header*/
