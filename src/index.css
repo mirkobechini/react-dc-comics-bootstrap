@@ -15,3 +15,22 @@
     color: var(--rdc-primary);
 }
 /*#endregion Header*/
+
+/*#region Main*/
+
+/*#region Jumbotron*/
+#jumbotron{
+    background-image: url("./assets/img/jumbotron.jpg");
+    height: 400px;
+}
+
+/*#endregion Jumbotron*/
+
+
+#floatingLabel{
+  top: -25px;
+  left: 310px;
+}
+
+
+/*#endregion Main*/
