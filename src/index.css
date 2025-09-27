@@ -34,3 +34,13 @@
 
 
 /*#endregion Main*/
+
+/*#region Footer*/
+/*#region FooterJumbo*/
+#footerJumbo{
+  background-image: url("./assets/img/footer-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*#endregion FooterJumbo*/
+/*#endregion Footer*/

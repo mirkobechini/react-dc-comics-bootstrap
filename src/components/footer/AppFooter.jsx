@@ -1,9 +1,11 @@
-export default function AppFooter(){
+//Import components
+import FooterJumbo from "./FooterJumbo"
+
+export default function AppFooter() {
     return (
         <>
-        <div className="container">
+        <FooterJumbo/>
             
-        </div>
         </>
     )
 }
