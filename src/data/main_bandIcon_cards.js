@@ -15,15 +15,16 @@ const buttonCards = [
         text: 'dc merchandise',
         img: merchandiseComics
     },
+
     {
         id: 2,
-        text: 'comic shop locator',
-        img: shopLocatorComics
+        text: 'subscription',
+        img: subscriptionComics
     },
     {
         id: 3,
-        text: 'subscription',
-        img: subscriptionComics
+        text: 'comic shop locator',
+        img: shopLocatorComics
     },
     {
         id: 4,
